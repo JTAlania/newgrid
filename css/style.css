@@ -247,6 +247,12 @@ grid-gap: 1.5rem;
 
 /* Home Articles */
 
+#home-articles > h2 {
+  text-align: center;
+  padding-bottom: 1rem;
+  font-size: 2rem;
+}
+
 #home-articles .articles-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
